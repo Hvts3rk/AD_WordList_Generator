@@ -8,3 +8,5 @@ Tool per la creazione di usernames AD's compliant partendo da una wordlist, seco
 
 * Includere cewl per la creazione di una wordlist
 * Includere più convenzioni AD
+
+Repository mantenuta con il gentile contributo di [Lorenzo Invidia](https://github.com/lorenzoinvidia)
