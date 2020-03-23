@@ -1,4 +1,4 @@
-# AD_WordList_Creator
+# AD_Username_Generator
 
 Tool per la creazione di usernames AD's compliant partendo da una wordlist, secondo la convenzione: prima_lettera_del_nome+cognome. 
 
